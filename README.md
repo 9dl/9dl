@@ -1,14 +1,14 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.gif" width="25px"> , I'm <a href="https://9P9.github.io/profile/">Luci</a></h2>
+<h2 align="center">Hey, I'm 9dl </h2>
 <p align="center">
-  <a href="https://discord.gg/x2rntxtBpF">Community Discord Server</a> •
-  <a href="https://discord.gg/SJyU6VkHen">Coding Discord</a> •
-</p>
 
 ---
 
-https://img.shields.io/badge/-Python-CB3837?style=flat-square&logo=python
-
----
+![Py](https://img.shields.io/badge/Python-30%25-blue)
+![Java](https://img.shields.io/badge/Java-5%25-blue)
+![NodeJs](https://img.shields.io/badge/NodeJs-1%25-blue)
+![Batch](https://img.shields.io/badge/Batch-95%25-blue)
+  
+ ---
 
 <p align="center"> 
   Visitor count<br>
