@@ -6,7 +6,6 @@
 ![Py](https://img.shields.io/badge/Python-30%25-blue)
 ![Java](https://img.shields.io/badge/Java-5%25-blue)
 ![NodeJs](https://img.shields.io/badge/NodeJs-1%25-blue)
-![Batch](https://img.shields.io/badge/Batch-95%25-blue)
   
  ---
 
