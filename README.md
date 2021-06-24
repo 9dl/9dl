@@ -6,7 +6,7 @@ Discord CockNET Support: https://discord.gg/dHXznmyymu</h2>
  ---
 
 <p align="center"> 
-  Visitor count<br>
+  <3 Visitor Count <3<br>
   <img src="https://profile-counter.glitch.me/9dl/count.svg" />
 </p>
 
