@@ -1,6 +1,6 @@
 <h2 align="center">Welcome to my Profile :D </h2>
 <p align="center">
-Discord CockNET Support: https://discord.gg/dHXznmyymu</h2>
+My Discord Server: https://discord.gg/cvC3fta9Ns</h2>
 <p align="center">
   
  ---
