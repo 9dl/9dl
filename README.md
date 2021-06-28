@@ -1,4 +1,4 @@
-<h2 align="center">Welcome to my Profile :D </h2>
+<h2 align="center">Welcome to my Github :D </h2>
 <p align="center">
 My Discord Server: https://discord.gg/cvC3fta9Ns</h2>
 <p align="center">
