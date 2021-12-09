@@ -1,6 +1,6 @@
 <h2 align="center">Welcome to my Github :D </h2>
 <p align="center">
-My Discord Server: https://discord.gg/ SOON</h2>
+My Discord Server: https://discord.gg/Y88gQ5e9px</h2>
 <p align="center">
   
  ---
