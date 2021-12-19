@@ -10,3 +10,5 @@ My Discord Server: https://discord.gg/Y88gQ5e9px</h2>
   <img src="https://profile-counter.glitch.me/9dl/count.svg" />
 </p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=9dl&show_icons=true&locale=en&layout=compact" alt="9dl/></p>
