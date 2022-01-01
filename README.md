@@ -1,7 +1,8 @@
 <h2 align="center">Welcome to my Github :D </h2>
 <p align="center">
 My Web: https:/teamvestige.tk/</h2>
-My Proxy Service: https:/teamvestige.tk/VestigeProxys
+<h3 align="center">
+My Proxy Service: https:/teamvestige.tk/VestigeProxys</h3>
 <p align="center">
   
  ---
