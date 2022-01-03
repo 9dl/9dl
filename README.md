@@ -2,8 +2,6 @@
 <p align="center">
 My Web: https:/teamvestige.tk/</h2>
 <h3 align="center">
-My Proxy Service: https:/teamvestige.tk/VestigeProxys</h3>
-<p align="center">
   
  ---
 
