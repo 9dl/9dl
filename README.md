@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+ 🕹️ Learning: <strong>C++</strong>
+</p>
+
+<p align="center">
   💼 Current Project: <strong>VBypass</strong>
 </p>
 
