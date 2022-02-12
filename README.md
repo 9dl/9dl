@@ -7,11 +7,11 @@
 ---
 
 <p align="center">
-  💻 Coding Skill's: <strong>C++, C#, Py</strong>
+  💻 Coding Skill's: <strong>C++, C#, Py, PHP</strong>
 </p>
 
 <p align="center">
- 🕹️ Learning: <strong>C++</strong>
+ 🕹️ Learning: <strong>C++ / PHP</strong>
 </p>
 
 <p align="center">
