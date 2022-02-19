@@ -15,11 +15,11 @@
 </p>
 
 <p align="center">
-  💼 Current Project: <strong>VBypass</strong>
+  💼 Current Project: <strong>Nothing</strong>
 </p>
 
 <p align="center">
-  🔗 My Website: <strong>https://teamvestige.tk</strong>
+  🔗 My Website: <strong>https://vestige.tk</strong>
 </p>
 
 
