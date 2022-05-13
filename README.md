@@ -7,19 +7,7 @@
 ---
 
 <p align="center">
-  💻 Coding Skill's: <strong>C++, C#, Py, PHP</strong>
-</p>
-
-<p align="center">
- 🕹️ Learning: <strong>C++ / PHP</strong>
-</p>
-
-<p align="center">
-  💼 Current Project: <strong>Nothing</strong>
-</p>
-
-<p align="center">
-  🔗 My Website: <strong>https://vestige.tk</strong>
+  💻 Coding: <strong>C#</strong>
 </p>
 
 
