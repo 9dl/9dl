@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="center">
-  About Me <strong>9dl</strong>
+  Vestige#0001 <strong>(9dl)</strong>
 </p>
 
 ---
 
 <p align="center">
-  💻 Coding: <strong>C#</strong>
+  💻 <strong>C#</strong> Developer
 </p>
 
 
