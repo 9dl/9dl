@@ -1,16 +1,29 @@
-### Hi there 👋
+```go
+package main
 
-<!--
-**9dl/9dl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+import "fmt"
 
-Here are some ideas to get you started:
+type Developer struct {
+    Code              []string
+    Interests         []string
+    OperatingSystems  []string
+    ToolsUsed         []string
+    IDEs              []string
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+func main() {
+    _9dl := Developer{
+        Code:             []string{"Golang", "C#", "Next.js", "Python", "C++"},
+        Interests:        []string{"Cybersecurity", "Reversing", "Backend Development", "Frontend Development"},
+        OperatingSystems: []string{"Windows 11", "Kubuntu"},
+        ToolsUsed:        []string{"Git Bash", "VMWare", "MobaXterm", "PuTTY"},
+        IDEs:             []string{"VS (C#)", "VS Code (Web & Go)", "Webstorm (Web)", "Goland (Go)", "CLion (C++)"},
+    }
+
+    fmt.Printf("👋 Hello! I'm 9dl, a developer.\n")
+    fmt.Printf("💻 Code: %v\n", _9dl.Code)
+    fmt.Printf("🌐 Interests: %v\n", _9dl.Interests)
+    fmt.Printf("🖥️ Operating Systems: %v\n", _9dl.OperatingSystems)
+    fmt.Printf("🛠️ Tools Used: %v\n", _9dl.ToolsUsed)
+}
+```
