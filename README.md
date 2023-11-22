@@ -27,3 +27,4 @@ func main() {
     fmt.Printf("🛠️ Tools Used: %v\n", _9dl.ToolsUsed)
 }
 ```
+Visitor Counter: ![](https://profile-counter.glitch.me/9dl/count.svg)
