@@ -16,7 +16,7 @@ func main() {
         Code:             []string{"Golang", "C#", "Next.js", "Python", "C++"},
         Interests:        []string{"Cybersecurity", "Reversing", "Backend Development", "Frontend Development"},
         OperatingSystems: []string{"Windows 11", "Kubuntu"},
-        ToolsUsed:        []string{"Git Bash", "VMWare", "MobaXterm", "PuTTY"},
+        ToolsUsed:        []string{"Git Bash", "VMWare", "MobaXterm", "PuTTY", "Postman"},
         IDEs:             []string{"VS (C#)", "VS Code (Web & Go)", "Webstorm (Web)", "Goland (Go)", "CLion (C++)"},
     }
 
