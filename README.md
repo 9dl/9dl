@@ -1,6 +1,6 @@
 # 👋 Hello, I'm 9dl!
 
-🌟 **15 y/o Developer | Cybersecurity Enthusiast | Software Engineer** 🌟
+🌟 **16 y/o Developer | Cybersecurity Enthusiast | Software Engineer** 🌟
 
 ---
 
