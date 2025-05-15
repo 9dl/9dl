@@ -9,10 +9,11 @@
 I'm a self-taught developer passionate about **building security tools** and **understanding systems at depth**. Currently exploring low-level programming and secure design patterns while maintaining multiple open-source projects. Founder of [AxionSec](https://axionsec.pro/) where I experiment with practical security solutions.
 
 **Key Projects**:
-- **GoInjection**: SQL injection testing toolkit with dynamic payload generation
-- **Cosmic**: Cloud based Reverse Engineering Application
-- **Atomic**: Lightweight automation Firmware for security workflows
-- **Obscurity Auth**: Custom Authentication built against Reverse Engineering
+- [**ZeroTrace**](https://zerotrace.pw): Offensive USB attack device made for pentesters
+- [**GoInjection**](https://github.com/9dl/goinjection): SQL injection testing toolkit with dynamic payload generation  
+- [**Cosmic**](https://github.com/Axion-Security/Cosmic): Cloud based Reverse Engineering Application  
+- [**Atomic**](https://github.com/Axion-Security/Atomic): Lightweight automation Firmware for security workflows  
+- [**Obscurity Auth**](https://obscurity.cc/): Custom Authentication built against Reverse Engineering  
 
 ---
 
