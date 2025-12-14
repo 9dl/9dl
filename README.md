@@ -1,5 +1,3 @@
-<!-- Profile README — clean, professional, still “security” branded -->
-
 <div align="center">
 
 # 👋 Hey, I’m **9dl**
